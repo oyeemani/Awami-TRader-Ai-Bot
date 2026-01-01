@@ -1,0 +1,7 @@
+{
+  "name": "Awami Trader AI Bot",
+  "description": "A specialized AI chatbot for Awami Trader, trained on their industrial machinery catalog, prices, and location data. Features campaign-aware responses for social media ad integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
