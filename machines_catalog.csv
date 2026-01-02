@@ -1,0 +1,22 @@
+Sr,Category,Product Name,Size / Working Area,Technical Specs (Heads/Power),Price (PKR)
+1,Wood,"CNC Router 4040 (16x16"")",400x400 mm,"2.2kW Spindle, Ball Screw",700000
+2,Wood,"CNC Router 4060 (16x24"")",400x600 mm,"2.2kW Spindle, Heavy Duty",800000
+3,Wood,CNC Router AWR-1325 (Single),1300x2500 mm,"4.5kW / 5.5kW Spindle, DSP",1550000
+4,Wood,CNC Router AWR-1325 (Double),1300x2500 mm,"2x 4.5kW Spindles, Double Head",1750000
+5,Wood,Sliding Table Saw MJ-6132,3200 mm,5.5kW Main + 1.1kW Score Motor,750000
+6,Wood,Portable Sliding Table Saw,1200-1600 mm,"Compact, Single Phase Support",300000
+7,Wood,Edge Banding Machine WF-50D,10-50 mm Tape,"Straight & Curved, 1.2kW Heater",950000
+8,Wood,Automatic Feeding Edge Banding,Full Auto,"Gluing, End Trim, Fine Trim, Buff",510000
+9,Laser,CO2 Laser Cutter 3020,300x200 mm,40W / 50W Glass Tube,140000
+10,Laser,CO2 Laser Cutter 4040,400x400 mm,"50W / 60W Tube, Precision",220000
+11,Laser,CO2 Laser Cutter 6040,600x400 mm,"60W / 80W, RDWorks Control",380000
+12,Laser,CO2 Laser Cutter 6090,900x600 mm,"80W / 100W, Industrial Signage",720000
+13,Laser,CO2 Laser Cutter 1410,1400x1000 mm,"100W / 130W, Large Format",1100000
+14,Laser,CO2 Laser Cutter 1325,1300x2500 mm,"130W / 150W, Full 4x8ft Sheet",1550000
+15,Laser,CO2 Laser Cutter 1610,1600x1000 mm,Dual Head for Fabric/Textile,1350000
+16,Laser,CO2 Laser Cutter 1318,1300x1800 mm,"Industrial Bed, Wood & Leather",1450000
+17,Marking,Fiber Laser Marking 20W,110x110 mm,"Raycus Source, Metal Engraving",325000
+18,Marking,Fiber Laser Marking 30W,110x110 mm,"Raycus, High Speed Marking",425000
+19,Marking,Fiber Laser Marking 50W,110x110 mm,"Deep Metal Engraving, JPT/Raycus",625000
+20,Marking,Fiber Laser Marking 70W,110x110 mm,Industrial Heavy Duty Marking,825000
+21,Marking,UV Laser Marking 5Watt,110x110 mm,Cold Laser for Glass & Plastic,950000
